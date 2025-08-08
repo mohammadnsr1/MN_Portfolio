@@ -6,7 +6,7 @@ permalink: /projects/pcr3bp/pcr3bp
 
 # Planar Circular Restricted Three‑Body Problem (PCR3BP)
 
-![Hero](/assets/images/pcr3bp-hero.png)
+![Hero](/assets/images/PCR3BD.png)
 
 **Summary.** Derived equations in the rotating frame, located **L1–L5**, plotted **zero‑velocity curves** (Jacobi constant levels), and simulated sample trajectories.
 
