@@ -3,11 +3,7 @@ permalink: /projects/pcr3bp/
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
-<!-- Enable MathJax for LaTeX rendering -->
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+
 
 # Planar Circular Restricted Three‑Body Problem (PCR3BP)
 
@@ -21,6 +17,11 @@ permalink: /projects/pcr3bp/
 
 
 ## 2.Equations of Motion:
+<!-- Enable MathJax for LaTeX rendering -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
 Let \(X\!-\!Y\!-\!Z\) denote an **inertial frame**, and \(x\!-\!y\!-\!z\) a **rotating frame** whose origin is located at the **center of mass of the primaries** \(m_1\) and \(m_2\), as shown in *Figure&nbsp;1*.  
 The \(X\!-\!Y\) plane coincides with the orbital plane of the primaries.
