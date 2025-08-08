@@ -1,5 +1,5 @@
 title: PCR3BP
-permalink: /projects/pcr3bp/pcr3bp
+permalink: /projects/pcr3bp/
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
